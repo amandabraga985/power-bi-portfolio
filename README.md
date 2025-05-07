@@ -39,6 +39,11 @@ Este projeto tem como objetivo construir um relatório de vendas com informaçõ
 
 ---
 
+## 📷 Imagens
+
+![Imagem Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/user-attachments/assets/a6ee51a3-4dc5-4b8a-93bb-8a900a375b89)
+
+
 ## 👩‍💻 Autor
 
 - Amanda Braga
