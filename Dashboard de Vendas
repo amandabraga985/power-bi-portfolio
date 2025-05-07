@@ -1,1 +1,47 @@
+# Dashboard de Vendas com Custo, Margem de Lucro e KPI – Curso DSA
+
+Este projeto tem como objetivo construir um relatório de vendas com informações de custo, margem de contribuição e KPI. Aula do custo de Microsoft Power BI para Business Intelligence e Data Science da Data Science Academy.
+
+---
+
+## 📊 O que este dashboard mostra:
+
+- Qual foi o total de valor venda considerando cada modo de envio dos pedidos
+- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos
+- A meta de meta de vendas
+- A categoria de produto apresentou maior lucro médio
+- Qual foi o comportamento da margem de lucro ao longo do tempo
+
+---
+
+## 🛠️ Ferramentas utilizadas:
+
+- **Power BI** para visualização dos dados
+- **Excel** como fonte de dados
+- **DAX** para criação da margem de lucro
+
+---
+
+## 📌 Aprendizado aplicado:
+
+- Importação de dados arquivo CSV
+- Ajuste dos dados com a opção transformar dados > usar primeira linha como cabeçalho, pois o cabeçalho não foi identificado ao ser importado. 
+- Ajuste de relacionamento entre arquivos (os dados do arquivo produtos estava duplicado então foi removida a linha duplicada e criado o relacionamento entre produtos e vendas)
+- Perguntas a serem respondidas com a análise dos dados:
+ * Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Usado o gráfico de cascata.
+ * Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Usado um gráfico treemap.
+ * A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostrado o indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+ * Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio? (Criado  em gráfico de rosca)
+ * Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o lucro dividido pelo valor venda.(Criado em gráfico de linhas, com a soma da margem de lucro)
+- Criação de gráficos de cascata, treemap, linha, rosca e KPI.
+- Formatação de relatórios
+- Publicação no GitHub
+
+---
+
+## 👩‍💻 Autor
+
+- Amanda Braga
+- LinkedIn([https://www.linkedin.com/in/amandadesouzabraga/])
+
 
